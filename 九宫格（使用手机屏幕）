@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+div{height:0;width:0;padding:15%;background:yellow;margin:1%;float:left;
+border:1px solid yellow;
+border-radius: 1em}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+<body>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</body>
+</html>
