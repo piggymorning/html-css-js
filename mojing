@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<style type="text/css">
+body{background-image: url(taskb.png);
+background-repeat: repeat;
+color: white;
+font-size: 1rem;}
+div.aa{
+position:absolute;
+width:11rem;
+height:5rem;
+left:50%;
+top:20%;
+margin-left:-5.5rem;
+margin-top:-2.5rem;
+}
+.a1{position: absolute;}
+.a2{position: absolute;
+top:-1rem;
+left:4.5rem;}
+.a3{position: absolute;
+top:1.3rem;
+left:4.8rem;}
+
+.b1{width:60%;
+	height:5rem;
+position: absolute;
+left:50%;
+top:45%;
+margin-left: -30%;
+margin-top: -2.5rem;
+text-align: center;
+}
+
+.c1{
+width:6rem;
+height: 7rem;
+position: absolute;
+top:70%;
+left: 20%;
+}
+.c3{position: absolute;
+	top:4rem;
+	left:0.5rem;}
+
+.d1{
+	width:6rem;
+	height:7rem;
+	position: absolute;
+	right:20%;
+	top:70%
+}
+.d3{position: absolute;
+	top:4rem;
+	left: 0.5rem}
+</style>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+</head>
+<body>
+<div class="ee">
+<img class="e1" src="tasks.png"></img>
+</div>
+<div class="aa">
+<img class="a1" src="task1.png">
+<h1 class="a2">葡萄藤</h1>
+<h6 class="a3">www.ptteng.com</h6>
+</div>
+
+<h3 class="b1">葡萄藤游戏专注于桌游领域，提供在线杀人游戏，捉鬼，炸狼堡等多种聚会游戏，以线下聚会桌游道具为主。</h3>
+
+<div class="c1">
+<img class="c2" src="task2.png"></img>
+<h4 class="c3">3333333</h4>
+</div>
+
+<div class="d1">
+<img class="d2" src="task3.png"></img>
+<h4 class="d3">BJPTteng</h4>
+</div>
+</body>
+</html>
