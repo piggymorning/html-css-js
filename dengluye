@@ -21,6 +21,8 @@ form.e1{background-color: white;position:absolute;  width:100%;  height: 5rem;  
 .f1{background-image: url(tb1.png);  background-repeat: repeat;text-align: center;width:100%;height:5rem;position: fixed;
 	top:18rem;  left:0;display:flex;justify-content: center;align-items: center;}
 	.f2{background-image: url(tb1.png);background-repeat: repeat;border:none;font-size: 1.5rem;color: white;}
+	.g1{text-align: right;position: absolute;top:6rem;right:2rem;color:darkcyan;text-decoration: underline;}
+
 </style>
 </head>
 <body>
@@ -44,7 +46,7 @@ form.e1{background-color: white;position:absolute;  width:100%;  height: 5rem;  
 </form>
 
 <form class="f1"><input class="f2" type="submit" value="登录" </form>
-
+<div class="g1">忘记密码</div>
 
 </body>
 </html>
