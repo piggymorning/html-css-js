@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hugongzhuye</title>
+    <style type="text/css">
+        body{margin:0;}
+        .a1{background-image: url("ts4.png");background-repeat: repeat;height:4rem;display:flex;align-items: center;position:fixed;top:0;width: 100%; color:white}
+            .a2{font-size: 1.7rem;margin-left: 2rem;}
+            .a3{width:4rem;height: 1.5rem;position:absolute;left: 50%;margin-left: -2rem; }
+        .b1{background-image:url("ts1.png");background-repeat:no-repeat;background-size:100% 100%;width:100%;height:20rem;display:flex;align-items: center;}
+            .b2{background-image:url("ts2.png");background-repeat:no-repeat;background-size:100%;width:10rem;  min-width: 10rem;height:10rem;margin-left: 2.3rem;  }
+            .b3{width:12rem;height:4rem;color:white;margin-left: 3rem;min-width:12rem;}
+            .b4{font-size: 1.5rem}
+            .b5{display:flex;margin-top: 1rem}
+            .b6{margin-left: 1rem;}
+        .c1{display:flex;align-items: center;border-bottom:lightgrey solid 0.2rem;width: 100%;height: 5rem;font-size: 1.3rem;}
+            .c2{color: aqua;margin-left: 1.5rem;margin-right: 1rem;}
+        .d1{display: flex;align-items: center;border-bottom: lightgrey solid 0.2rem;width:100%;height: 5rem;margin-left: 0.5rem;}
+            .d2{display: flex;align-items: center;margin-left: 2.5rem;}
+            .d4,.d5{font-size: 1.3rem;}
+            .d3{margin-left: 1.7rem;display: flex;align-items: center;}
+        .e1{border-bottom: lightgrey solid 0.2rem;margin-left: 0.5rem;width:100%;height: 5rem;font-size: 1.3rem;display: flex;align-items: center;;}
+            .e2{margin-left: 2.5rem;color:lightgrey;}
+            .e3{color: lightgrey;margin :0 1rem;}
+        .f1{border-bottom: lightgrey solid 0.2rem;margin-left: 0.5rem;width:100%;height: 5rem;font-size: 1.3rem;display: flex;align-items: center;}
+            .f2{margin-left: 2.5rem;color:lightgrey;}
+            .f3{color: lightgrey;margin :0 1rem;}
+        .g1{border-bottom: lightgrey solid 0.2rem;margin-left: 0.5rem;width:100%;height: 5rem;font-size: 1.3rem;display: flex;align-items: center;}
+            .g2{margin-left: 2.5rem;color:lightgrey;min-width: 5.2rem;}
+            .g3{color: lightgrey;margin :0 1rem;}.g4{color: red;min-width: 6rem;}
+        .h1{border-bottom: lightgrey solid 0.2rem;margin-left: 0.5rem;width:100%;min-height:5rem;font-size: 1.3rem;display: flex;align-items: center;}
+            .h2{margin-left: 2.5rem;color:lightgrey;min-width:5.2rem;}
+            .h3{color: lightgrey;margin :0 1rem;}  .h4{width:100%;}
+        .i1{height:3rem;position: fixed;bottom:0;width:100%;background: white;margin-bottom: 1rem;}
+            .i2{position:absolute;left:0.5rem;right:51%;height:3rem;text-align: center;line-height: 3rem;border:darkturquoise solid 0.2rem;background-color: white;
+            color:deepskyblue;font-size: 1.5rem;border-radius: 0.5rem;}
+            .i3{position:absolute;right:0.5rem;left: 51%;height:3rem;border: darkturquoise solid 0.2rem;text-align: center;line-height: 3rem;background-color:darkturquoise;
+            color: white;font-size: 1.5rem;border-radius: 0.5rem;}
+        .s6{height:8rem;}
+    </style>
+</head>
+<body>
+<div class="a1">
+    <span class="a2"><</span>
+    <div class="a3">个人主页</div>
+</div>
+    <div class="b1">
+    <div class="b2"></div>
+    <div class="b3">
+        <div class="b4">徐士林55岁</div>
+        <div class="b5"><img src="ts3.png"><span class="b6">京城·四方·报纸林</span> </div>
+    </div>
+    </div>
+    <div class="c1">
+        <span class="c2">|</span>
+        <span class="c3">专业技能</span>
+    </div>
+    <div class="d1">
+        <div class="d2"><img src="ts5.png"><span class="d4">住家</span> </div>
+        <div class="d3"><img src="ts5.png"><span class="d5">不含餐</span></div>
+    </div>
+    <div class="e1">
+        <span class="e2">从业年限</span><span class="e3">|</span ><span>0~3年</span>
+    </div>
+    <div class="f1">
+        <span class="f2">工作时间</span><span class="f3">|</span ><span>全天</span>
+    </div>
+    <div class="g1">
+        <span class="g2">服务价格</span><span class="g3">|</span ><span class="g4">25元/小时</span>
+    </div>
+    <div class="h1">
+        <span class="h2">自我介绍</span><span class="h3">|</span ><div class="h4">可以洗衣做饭照顾老人，可以洗衣做饭照顾老人，
+        可以洗衣做饭照顾老人，可以洗衣做饭照顾老人，可以洗衣做饭照顾老人，</div>
+    </div>
+    <div class="i1">
+        <div class="i2">留言</div><div class="i3">电话联系</div>
+    </div>
+    <div class="s6"></div>
+</body>
+</html>
