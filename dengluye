@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<style type="text/css">
+body{background-image: url(tb4.png);  background-repeat: repeat;color: white;  }
+.a1{background-image: url(tb1.png);  background-repeat: repeat;  height:5rem;  width:100%;  position: fixed;  top:0;  left:0;  display: flex;
+	justify-content: space-between;  align-items: center;}
+	.a3{font-size: 1.5rem}
+	.a2{font-size: 1.3rem;margin-left: 1.5rem;}
+	.a4{font-size: 1.3rem;margin-right: 1.5rem;}
+form.b4{background-color: white; position:absolute;  width:100%;  height: 5rem;  left: 0;
+	top:6rem;  display: flex;  align-items: center;  }
+.b1{padding-left: 2rem;  padding-right: 2rem;  margin-top: 0.5rem;  }
+.b3{margin-left: 2rem;  height: 3rem;  width:100%;  border:none;  font-size: 1.5rem}
+.b5{color:lightgrey;font-size: 2rem}
+
+form.e1{background-color: white;position:absolute;  width:100%;  height: 5rem;  left: 0;  top:12rem;  display: flex;  align-items: center;}
+	.e2{padding:0 2rem}
+	.e3{color:lightgrey;font-size: 2rem}
+	.e4{margin-left: 2rem;  height: 3rem;  width:100%;  border:none;  font-size: 1.5rem}
+.f1{background-image: url(tb1.png);  background-repeat: repeat;text-align: center;width:100%;height:5rem;position: fixed;
+	top:18rem;  left:0;display:flex;justify-content: center;align-items: center;}
+	.f2{background-image: url(tb1.png);background-repeat: repeat;border:none;font-size: 1.5rem;color: white;}
+</style>
+</head>
+<body>
+<div class="a1">
+<span class="a2">关闭</span>
+<span class="a3">登录</span>
+<span class="a4">注册</span>
+</div>
+
+<form class="b4">
+<div class="b1">
+<img  class="b2" src="tb2.png"></img>
+</div>
+	<span class="b5">|</span>
+<input class="b3" type="text" placeholder="请输入手机号">
+</form>
+<form class="e1">
+	<div class="e2"><img src="tb3.png"></img></div>
+	<span class="e3">|</span>
+	<input class="e4" type="text"  placeholder="请输入密码">
+</form>
+
+<form class="f1"><input class="f2" type="submit" value="登录" </form>
+
+
+</body>
+</html>
